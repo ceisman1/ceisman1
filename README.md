@@ -2,7 +2,7 @@
 - 👀 I’m interested in Biotech R&D!
 - 🌱 I’m currently learning Python and C languages
 - 💞️ I’m looking to collaborate on projects in UX/UI development!
-- 📫 How to reach me ... shoot me an email
+- 📫 How to reach me ... shoot me an email!
 
 <!---
 ceisman1/ceisman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
