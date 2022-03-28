@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ceisman1
-- 👀 I’m interested in Biotech R&D!
-- 🌱 I’m currently learning Python and C languages
-- 💞️ I’m looking to collaborate on projects in UX/UI development!
-- 📫 How to reach me ... shoot me an email!
+- 👀 I’m interested in software development and machine learning 
+- 🌱 I’m currently learning Python and JavaScript languages
+- 💞️ I’m looking to collaborate on projects and connect with other self-taught programmers
+- 📫 How to reach me ... shoot me an email! christineeisman@gmail.com
 
 <!---
 ceisman1/ceisman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
